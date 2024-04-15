@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperBasketballKris", "SuperBasketballKris\SuperBasketballKris.csproj", "{EF1F876E-7D62-4A6E-B9DE-4F2985D5A81D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{D88746F7-59A8-4A0D-9E96-4EE3E22F8E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{D76C801F-07D8-4A68-A7E8-E22B81B0B001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1F876E-7D62-4A6E-B9DE-4F2985D5A81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1F876E-7D62-4A6E-B9DE-4F2985D5A81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1F876E-7D62-4A6E-B9DE-4F2985D5A81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1F876E-7D62-4A6E-B9DE-4F2985D5A81D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88746F7-59A8-4A0D-9E96-4EE3E22F8E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88746F7-59A8-4A0D-9E96-4EE3E22F8E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88746F7-59A8-4A0D-9E96-4EE3E22F8E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88746F7-59A8-4A0D-9E96-4EE3E22F8E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76C801F-07D8-4A68-A7E8-E22B81B0B001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76C801F-07D8-4A68-A7E8-E22B81B0B001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76C801F-07D8-4A68-A7E8-E22B81B0B001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76C801F-07D8-4A68-A7E8-E22B81B0B001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
